@@ -1,0 +1,4 @@
+CALLBACK
+========
+- função auxiliar é uma função que é disparada logo após uma função assíncrona
+- "callback hell"   
